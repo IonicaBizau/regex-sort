@@ -1,0 +1,42 @@
+{
+  "name": "regex-sort",
+  "description": "Sort an array of strings using regex patterns.",
+  "keywords": [
+    "regex",
+    "sort",
+    "an",
+    "array",
+    "of",
+    "strings",
+    "using",
+    "patterns"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "build/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/regex-sort.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/regex-sort/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/regex-sort#readme"
+}
